@@ -1,1 +1,1 @@
-# rfps
+This is a RFP repository - an abstract repo being served as a gateway to other repos. Check the **Discussions**, if you have a great enchancement idea or you want to bring up a topic. Check **Projects** to see the current status of issues.
