@@ -7,11 +7,11 @@ body:
   - type: markdown
     attributes:
         value: |
-          Thanks for taking the time to fill out this bug report!
+          Thank for contributing your improvement propositions!
   - type: input
     id: Description
     attributes:
-      label: Feature description. May include: precondition, flow, postcondition
+      label: "Feature description. May include: precondition, flow, postcondition."
       description: "What is the feature? What does the feature enable to do?"
       placeholder: Dark mode
     validations:
