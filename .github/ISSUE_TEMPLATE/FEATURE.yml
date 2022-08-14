@@ -1,0 +1,19 @@
+name: New Feature
+description: Comprehensive description of improvement proposition
+title: "[Feature]: "
+labels: ["feature"]
+
+body:
+  - type: markdown
+  - type: input
+    id: description
+    validations:
+      required: true 
+  - type: input
+    id: feature-action
+    attributes:
+      label: I want to
+      description: What is the feature ? What does the feature enable to do ?
+      placeholder: Stake my assets
+    validations:
+      required: true
