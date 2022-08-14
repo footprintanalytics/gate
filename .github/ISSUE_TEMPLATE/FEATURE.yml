@@ -9,14 +9,10 @@ body:
         value: |
           Thanks for taking the time to fill out this bug report!
   - type: input
-    id: description
-    validations:
-      required: true 
-  - type: input
-    id: feature-action
+    id: Description
     attributes:
-      label: I want to
-      description: What is the feature ? What does the feature enable to do ?
-      placeholder: Stake my assets
+      label: Feature description. May include: precondition, flow, postcondition
+      description: What is the feature? What does the feature enable to do?
+      placeholder: Dark mode
     validations:
       required: true
