@@ -1,6 +1,6 @@
 name: New Feature
 description: Comprehensive description of improvement proposition
-title: "[Feature]: "
+title: "[Feature name]"
 labels: ["feature"]
 
 body:
