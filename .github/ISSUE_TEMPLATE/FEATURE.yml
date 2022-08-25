@@ -8,7 +8,7 @@ body:
     attributes:
         value: |
           Thank for contributing your improvement propositions!
-  - type: input
+  - type: textarea
     id: Description
     attributes:
       label: "Feature description. May include: precondition, flow, postcondition."
